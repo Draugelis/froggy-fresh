@@ -1,0 +1,5 @@
+requests==2.27.1
+python-dotenv==0.20.0
+hikari==2.0.0.dev108
+hikari-lightbulb==2.2.1
+geopy==2.2.0
